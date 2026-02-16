@@ -1,0 +1,10 @@
+{
+  "top_leagues": [39, 140, 78, 135, 61],
+  "names": {
+    "39": "Premier League",
+    "140": "La Liga",
+    "78": "Ligue 1",
+    "135": "Serie A",
+    "61": "Bundesliga"
+  }
+}
